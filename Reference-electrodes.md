@@ -1,7 +1,5 @@
 # 参比电极
 
-标签：电化学、专题笔记、参比电极、Ag-AgCl
-
 ## 1. 为什么需要参比电极
 
 单个电极的绝对电位不能直接测量，实验中只能测量两个电极之间的电势差。
@@ -22,7 +20,7 @@ $$
 ### 标准氢电极（Standard Hydrogen Electrode, SHE；Normal Hydrogen Electrode, NHE）
 
 $$
-\mathrm{Pt\\mid\H_2\\mid\H^+}
+\mathrm{Pt\;\mid\;H_2\;\mid\;H^+}
 $$
 
 标准电位规定为：
@@ -34,7 +32,7 @@ $$
 ### Ag/AgCl 参比电极（Ag/AgCl reference electrode）
 
 $$
-\mathrm{Ag\\mid\AgCl\\mid\Cl^-}
+\mathrm{Ag\;\mid\;AgCl\;\mid\;Cl^-}
 $$
 
 电极反应：

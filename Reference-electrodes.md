@@ -17,10 +17,10 @@ $$
 
 ## 2. 常见参比电极
 
-### 标准氢电极（SHE/NHE) Normal/StandardHydrogen Electrode
+### 标准氢电极（Standard Hydrogen Electrode, SHE；Normal Hydrogen Electrode, NHE）
 
 $$
-\mathrm{Pt\;\vert\;H_2\;\vert\;H^+}
+\mathrm{Pt\;\mid\;H_2\;\mid\;H^+}
 $$
 
 标准电位规定为：
@@ -29,10 +29,10 @@ $$
 E^\circ_{\mathrm{SHE}}=0\ \mathrm{V}
 $$
 
-### Ag/AgCl 参比电极
+### Ag/AgCl 参比电极（Ag/AgCl reference electrode）
 
 $$
-\mathrm{Ag\;\vert\;AgCl\;\vert\;Cl^-}
+\mathrm{Ag\;\mid\;AgCl\;\mid\;Cl^-}
 $$
 
 电极反应：
@@ -43,7 +43,7 @@ $$
 
 其电位取决于内部 $\mathrm{Cl^-}$ 活度。
 
-### 饱和甘汞电极（SCE）
+### 饱和甘汞电极（Saturated Calomel Electrode, SCE）
 
 由 Hg、$\mathrm{Hg_2Cl_2}$ 和固定组成的氯化物溶液构成。由于汞的环境和安全风险，使用有所减少。
 
@@ -59,7 +59,7 @@ $$
 4. 测量仪器输入阻抗很高，几乎没有电流通过；
 5. 电极界面状态能够重复。
 
-Ag/AgCl 电极的能斯特方程：
+Ag/AgCl 电极的能斯特方程（Nernst equation）：
 
 $$
 E_{\mathrm{AgCl}}
@@ -94,7 +94,8 @@ $$
 | 工作阴极 | 是 | 参与放电反应 | 受活度、极化和表面状态影响 |
 | Ag/AgCl 参比电极 | 近似否 | 提供稳定电位基准 | 内部组成受控、相对稳定 |
 
-> [!important] 判断关键
+> **判断关键**
+>
 > 是否为参比电极，不只看材料名称，还要看它在测量回路中的功能、内部组成是否固定，以及是否近似零电流。
 
 ---
@@ -113,12 +114,11 @@ $$
 
 ## 7. 最短记忆
 
-> [!abstract] 参比电极稳定的两个核心
-> **固定组成 + 近零电流。**
+> **参比电极稳定的两个核心：固定组成 + 近零电流。**
 
 ## 相关笔记
 
-- [[02_专题笔记/标准电极电位、SHE与Zn-SHE电池]]
-- [[02_专题笔记/电池表示法与Zn–AgCl反应]]
-- [[02_专题笔记/能斯特方程与符号判断]]
-- [[03_复习资料/易错点汇总]]
+- [标准电极电位、SHE 与 Zn-SHE 电池](标准电极电位、SHE与Zn-SHE电池.md)
+- [电池表示法与 Zn–AgCl 反应](电池表示法与Zn–AgCl反应.md)
+- [能斯特方程与符号判断](能斯特方程与符号判断.md)
+- [易错点汇总](../03_复习资料/易错点汇总.md)

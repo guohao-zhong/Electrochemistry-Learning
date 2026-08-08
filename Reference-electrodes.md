@@ -22,7 +22,7 @@ $$
 ### 标准氢电极（Standard Hydrogen Electrode, SHE；Normal Hydrogen Electrode, NHE）
 
 $$
-\mathrm{Pt\;\mid\;H_2\;\mid\;H^+}
+\mathrm{Pt\\mid\H_2\\mid\H^+}
 $$
 
 标准电位规定为：
@@ -34,7 +34,7 @@ $$
 ### Ag/AgCl 参比电极（Ag/AgCl reference electrode）
 
 $$
-\mathrm{Ag\;\mid\;AgCl\;\mid\;Cl^-}
+\mathrm{Ag\\mid\AgCl\\mid\Cl^-}
 $$
 
 电极反应：

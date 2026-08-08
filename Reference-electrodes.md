@@ -6,12 +6,7 @@
 
 参比电极就是一个电位已知且相对稳定的比较基准，用于测量工作电极相对于它的电位。
 
-$$
-\boxed{
-\text{待测电极电位}
-\;\text{必须通过与参比电极比较来获得}
-}
-$$
+> 待测电极电位必须通过与参比电极比较来获得。
 
 ---
 
@@ -19,33 +14,25 @@ $$
 
 ### 标准氢电极（Standard Hydrogen Electrode, SHE；Normal Hydrogen Electrode, NHE）
 
-$$
-\mathrm{Pt\;\mid\;H_2\;\mid\;H^+}
-$$
+电极表示法：**Pt / H₂ / H⁺**
 
 标准电位规定为：
 
-$$
-E^\circ_{\mathrm{SHE}}=0\ \mathrm{V}
-$$
+标准电位：**E°(SHE) = 0 V**
 
 ### Ag/AgCl 参比电极（Ag/AgCl reference electrode）
 
-$$
-\mathrm{Ag\;\mid\;AgCl\;\mid\;Cl^-}
-$$
+电极表示法：**Ag / AgCl / Cl⁻**
 
 电极反应：
 
-$$
-\mathrm{AgCl+e^-\rightleftharpoons Ag+Cl^-}
-$$
+电极反应：**AgCl + e⁻ ⇌ Ag + Cl⁻**
 
-其电位取决于内部 $\mathrm{Cl^-}$ 活度。
+其电位取决于内部 **Cl⁻** 活度。
 
 ### 饱和甘汞电极（Saturated Calomel Electrode, SCE）
 
-由 Hg、$\mathrm{Hg_2Cl_2}$ 和固定组成的氯化物溶液构成。由于汞的环境和安全风险，使用有所减少。
+由 Hg、Hg₂Cl₂ 和固定组成的氯化物溶液构成。由于汞的环境和安全风险，使用有所减少。
 
 ---
 
@@ -53,7 +40,7 @@ $$
 
 稳定来自一组受控条件：
 
-1. 内部 $\mathrm{Cl^-}$ 活度固定；
+1. 内部 Cl⁻ 活度固定；
 2. Ag 和 AgCl 两相共存且量足够；
 3. 温度基本固定；
 4. 测量仪器输入阻抗很高，几乎没有电流通过；
@@ -61,14 +48,9 @@ $$
 
 Ag/AgCl 电极的能斯特方程（Nernst equation）：
 
-$$
-E_{\mathrm{AgCl}}
-=
-E^\circ_{\mathrm{AgCl}}
--\frac{RT}{F}\ln a(\mathrm{Cl^-})
-$$
+**E(AgCl) = E°(AgCl) − (RT/F) ln a(Cl⁻)**
 
-只要温度和内部 $\mathrm{Cl^-}$ 活度保持不变，电位就相对稳定。
+只要温度和内部 Cl⁻ 活度保持不变，电位就相对稳定。
 
 ---
 
@@ -77,7 +59,7 @@ $$
 若持续通过较大电流：
 
 - AgCl 会不断生成或消耗；
-- 界面附近 $\mathrm{Cl^-}$ 活度会变化；
+- 界面附近 Cl⁻ 活度会变化；
 - 电极会产生极化；
 - 表面状态可能发生改变。
 
@@ -87,7 +69,7 @@ $$
 
 ## 5. 工作阴极不等于参比电极
 
-同样由 Ag、AgCl 和 $\mathrm{Cl^-}$ 构成，并不代表功能相同。
+同样由 Ag、AgCl 和 Cl⁻ 构成，并不代表功能相同。
 
 | 情况 | 是否明显过电流 | 主要作用 | 电位状态 |
 |---|---:|---|---|
